@@ -213,9 +213,11 @@ This section is intentionally direct so contributors know exactly what's left to
 
 ---
 ## Output:
-<img width="1565" height="970" alt="Screenshot 2026-07-23 132818" src="https://github.com/user-attachments/assets/d1b16dd7-29f7-4050-8bb6-fbe187498c8e" />
+
+<img width="1745" height="496" alt="Screenshot 2026-07-23 132305" src="https://github.com/user-attachments/assets/170a0e81-bd5e-40ce-ba2f-e82910d4cd79" />
 
 <img width="1570" height="986" alt="Screenshot 2026-07-23 132921" src="https://github.com/user-attachments/assets/626d7864-a932-489e-a842-969aa5621048" />
+
 
 
 
