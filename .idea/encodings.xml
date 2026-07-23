@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/alert/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/api-gateway (1)/api-gateway/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/maintenance/maintenance/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/satellite/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/telemetry/telemetry/src/main/java" charset="UTF-8" />
+  </component>
+</project>
