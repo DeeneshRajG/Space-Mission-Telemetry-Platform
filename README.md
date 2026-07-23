@@ -213,6 +213,7 @@ This section is intentionally direct so contributors know exactly what's left to
 
 ---
 ## Output:
+<img width="1570" height="986" alt="Screenshot 2026-07-23 132921" src="https://github.com/user-attachments/assets/71b1f827-f5ef-4d8a-ac14-9ea6a7ef8d65" />
 
 <img width="1495" height="906" alt="Screenshot 2026-07-23 133156" src="https://github.com/user-attachments/assets/8b29aac2-0aae-42a5-99b7-88efff12815f" />
 <img width="1140" height="855" alt="Screenshot 2026-07-23 133208" src="https://github.com/user-attachments/assets/bd7d3504-84cc-43e6-9f3d-5a5f7bc44bd4" />
