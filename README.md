@@ -215,7 +215,12 @@ This section is intentionally direct so contributors know exactly what's left to
 ## Output:
 
 <img width="1495" height="906" alt="Screenshot 2026-07-23 133156" src="https://github.com/user-attachments/assets/8b29aac2-0aae-42a5-99b7-88efff12815f" />
+<img width="1140" height="855" alt="Screenshot 2026-07-23 133208" src="https://github.com/user-attachments/assets/bd7d3504-84cc-43e6-9f3d-5a5f7bc44bd4" />
 
+<img width="917" height="927" alt="Screenshot 2026-07-23 133223" src="https://github.com/user-attachments/assets/28993cf1-cf55-4b2e-9512-88a130a0d443" />
+<img width="896" height="670" alt="Screenshot 2026-07-23 133237" src="https://github.com/user-attachments/assets/8b8c55e7-112a-4183-80df-efbe263594b9" />
+<img width="922" height="718" alt="Screenshot 2026-07-23 133308" src="https://github.com/user-attachments/assets/c6263d31-78f6-4300-96d9-63d2225efce6" />
+<img width="2" height="5" alt="Screenshot 2026-07-23 133253" src="https://github.com/user-attachments/assets/9f8d16a5-6063-4d49-97cd-b5fbfee6ae2d" />
 
 <img width="1570" height="986" alt="Screenshot 2026-07-23 132921" src="https://github.com/user-attachments/assets/626d7864-a932-489e-a842-969aa5621048" />
 
